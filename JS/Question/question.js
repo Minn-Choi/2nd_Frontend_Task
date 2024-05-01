@@ -121,6 +121,7 @@ console.log("======= 문제 구분선 =======");
 
 // Q6 반복문 연습2
 console.log("Q6 반복문 연습문제2");
+
 /*
 다음을 출력하시오
      *
@@ -138,7 +139,7 @@ for (let i = 1; i <= 5; i++) {
   for (let k = 1; k <= i; k++) {
     line += "*";
   }
-  
+
   console.log(line);
 }
 
